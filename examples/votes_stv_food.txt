@@ -1,0 +1,6 @@
+4 [["Orange"]]
+2 [["Pear"],["Orange"]]
+8 [["Chocolate"],["Strawberry"]]
+4 [["Chocolate"],["Sweets"]]
+1 [["Strawberry"]]
+1 [["Sweets"]]
